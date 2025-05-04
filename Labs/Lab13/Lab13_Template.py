@@ -76,7 +76,7 @@ from astropy.constants import k_B
 #   
 # ## Question 2
 # 
-# What is the sound horizon at the time of recombination?
+# What is the sound horizon at the time of recombination? What about at present day?
 # 
 # ## Question 3 
 # What is the angular size subtended by the Sound Horizon Diameter?
@@ -553,21 +553,24 @@ plt.savefig('Lab12_Temperature.png')
 
 # # Part 2, Question 1
 
+# What is the size of the universe at the epoch of recombination in the BenchMark Cosmology?
 
+# What is the sound horizon TODAY in the BenchMark Cosmology?
 
-# What is the size of the universe at the epoch of recombination? 
+# What is the sound horizon at the epoch of recombination in the Einstein DeSitter Cosmology?
 
-
-
+# What is the sound horizon TODAY in the Einstein DeSitter Cosmology?
 
 # What angle does the causally connected region of the universe at z=1100 subtend on the sky today?
+
+
 
 
 # # Part 3, Question 2
 
 
 
-# What is the sound horizon at the epoch of recombination ? 
+# What is the size of sound horizon at the epoch of recombination ? 
 
 
 # ## Part 3, Question 3 
